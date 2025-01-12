@@ -1,4 +1,4 @@
-package com.learning.WebApp;
+package com.learning.WebApp.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
